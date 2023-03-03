@@ -1,3 +1,3 @@
 class Firebase {
-    
+    test
 };
